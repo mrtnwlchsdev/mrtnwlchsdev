@@ -1,21 +1,11 @@
 <div align="center">
- <h3>👋🏼 ¡Hey Devs, my name is Martin Wilches 🧑🏻‍💻!</h3>
+ <h1>👋🏼 ¡Hey Devs, my name is Martin Wilches 🧑🏻‍💻!</h1>
  <img 
    src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"
-   width="80px"
-   height="80px"
+   width="150px"
+   height="150px"
    border-radius="50%">
- <h3>:zap: Welcome to my personal repo :zap:</h3>
- <p>🌐 Web developer currently located in Colombia 🇨🇴 🌐</p>
- <p>:star: Building things with JavaScript and PHP :star:</p>
- <p>
-  :speech_balloon:
-  <a href="https://www.linkedin.com/in/martin-wilches/" target="_blank">LinkedIn</a>
-  <a href="https://t.me/MartinWDev" target="_blank">Telegram</a>
-  <a href="mailto:martin8dev@gmail.com" target="_blank">Gmail</a>
-  :speech_balloon:
- </p>
- <h3 style="font-size: 40px">:hammer_and_wrench: My Tech Tools :hammer_and_wrench:</h3>
+ <h2>:zap: Welcome to my personal repo :zap:</h2>
  
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -23,6 +13,7 @@
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -35,4 +26,7 @@
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 </div>
