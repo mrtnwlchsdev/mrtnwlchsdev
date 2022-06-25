@@ -1,11 +1,11 @@
 <div align="center">
- <h3>👋🏼 ¡Hey Devs, my name is Martin Wilches 🧑🏻‍💻!</h3>
- <h3>:zap: Welcome to my personal repo :zap:</h3>
- <img 
+  <h3>:zap: Welcome to my personal repo :zap:</h3>
+  <img 
    src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"
    width="150px"
    height="150px"
    border-radius="50%">
+ <!--<h3>:zap: Welcome to my personal repo :zap:</h3>-->
  
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
