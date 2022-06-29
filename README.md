@@ -1,11 +1,5 @@
 <h1>
-  Martin Wilches
-  <img
-    src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"
-    width="50px"
-    height="50px"
-    border-radius="50%">
-  @mrtnwlchsdev
+  Martin Wilches—@mrtnwlchsdev
  </h1>
 <p>Hey 🙋🏻, welcome to my personal repo. I'm a software developer located in Colombia :colombia:. I am currently studying the software development academic program at college :mortar_board:, and at the same time I am working in a company that offers clinical software services :stethoscope:.</p>
 <p>In addition to software development, I am passionate about music, video games, basketball, photography and space :rocket:.</p>
