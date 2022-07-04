@@ -1,7 +1,7 @@
 <h1>
   Martin Wilches—@mrtnwlchsdev
  </h1>
-<p>Hey 🙋🏻, welcome to my personal repo. Web developer located in Colombia :colombia:. <br> I'm currently studying an academic program focused on software development at university, although I'm mainly focused on developing new skills through self-learning.</p>
+<p>Hey 🙋🏻, welcome to my personal repo. Web developer located in Colombia :colombia:. <br> I'm currently studying an academic program focused on software development at college, although I'm mainly focused on developing new skills through self-learning.</p>
 <p>In addition to software development, I'm passionate about music, films, basketball, photography and space :rocket:.</p>
 <div align="center">
 </div>
